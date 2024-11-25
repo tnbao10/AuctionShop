@@ -1,0 +1,67 @@
+.wrapper-dangkygianhang{
+    width: 900px;
+    margin: 5% auto;
+}
+.single-price-dangkygianhang{
+    width: 33%;
+    background: #262626;
+    float: left;
+    margin-top: 2%;
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    transform: 0.9s;
+}
+.price-dangkygianhang{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 2px solid #da4357;
+    margin: 5% auto 0 auto;
+    text-align: center;
+}
+.deals-dangkygianhang{
+    margin-top: 10%;
+}
+.single-price-dangkygianhang h1{
+    font-size: 20px;
+    color: #fff;
+    line-height: 3;
+    text-transform: uppercase;
+}
+.price-dangkygianhang h2{
+    font-size: 40px;
+    color:#fff;
+
+}
+.deals-dangkygianhang h4{
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1;
+    color: #fff;
+}
+.single-price-dangkygianhang:hover{
+    background: #da4357;
+    color: #fff;
+    box-shadow: 0 0 15px rgb(0, 0, 0, 1);
+    transform: scale(1.1);
+    z-index: 1;
+    border-radius: 25px;
+}
+.single-price-dangkygianhang:hover .price-dangkygianhang{
+    border-color:#fff ;
+}
+.single-price-dangkygianhang a{
+    text-decoration: none;
+    background: #da4357;
+    color: #fff;
+    padding: 10px 60px;
+    display: inline-block;
+    margin: 10% auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.single-price-dangkygianhang:hover a{
+    background: #262626;
+    color: #fff;
+}

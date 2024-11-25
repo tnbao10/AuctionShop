@@ -1,4 +1,5 @@
 Trương Như Bảo - email: tnbao1009@gmail.com
+Download Composer
 B1: git clone code
 B2: Open Xamp -> Localhost/phpmyadmin -> Import database
 B3: Open VSCode -> Open ProjectFile

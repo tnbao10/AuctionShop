@@ -1,5 +1,8 @@
+Trương Như Bảo - email: tnbao1009@gmail.com
 B1: git clone code
-B2: cd <ProjectFile>
-B3: composer install
-B4: php artisan serve
-B5: Click URL to Enter Website
+B2: Open Xamp -> Localhost/phpmyadmin -> Import database
+B3: Open VSCode -> Open ProjectFile
+B4: cd <ProjectFile>
+B5: composer install
+B6: php artisan serve
+B7: Click URL to Enter Website

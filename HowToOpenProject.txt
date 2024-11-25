@@ -1,0 +1,5 @@
+B1: git clone code
+B2: cd <ProjectFile>
+B3: composer install
+B4: php artisan serve
+B5: Click URL to Enter Website

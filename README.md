@@ -11,7 +11,7 @@ This project is an online auction platform that enables users to list, bid, and 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [tnbao10@gmail.com](tnbao10@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [tnbao1009@gmail.com](tnbao1009@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 

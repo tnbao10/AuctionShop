@@ -4,7 +4,7 @@ This project is an online auction platform that enables users to list, bid, and 
 ## Introduction Of Website
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95ba5424-7dbf-4275-b253-fd942e4089e0" width=800><br/>
+  <img src="https://github.com/user-attachments/assets/f0416096-6f13-41dc-9e2e-9a528d9f41a0" width=800><br/>
   <i>Home</i>
 </p>
 

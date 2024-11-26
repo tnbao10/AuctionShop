@@ -20,6 +20,11 @@ This project is an online auction platform that enables users to list, bid, and 
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/5d38bc26-24d3-4f87-9d63-176248dcb284" width=1000><br/>
+  <i>Auction</i>
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/7dc2bef2-cd00-4736-b894-e064324ae25f" width=1000><br/>
   <i>User Information</i>
 </p>

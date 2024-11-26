@@ -1,12 +1,6 @@
 # [PHP] AUCTION SHOP
 This project is an online auction platform that enables users to list, bid, and win products in a competitive and user-friendly environment. Built with Laravel and modern web technologies, it supports real-time bidding, secure user authentication. The platform aims to provide a transparent and dynamic marketplace for buyers and sellers. Ideal for showcasing products of all kinds, from collectibles to high-value items.
 
-![image](https://github.com/user-attachments/assets/05382435-2481-4d7d-83eb-a0424e04e227)
-![image](https://github.com/user-attachments/assets/7dc2bef2-cd00-4736-b894-e064324ae25f)
-![image](https://github.com/user-attachments/assets/72590b57-2044-47d6-a27d-5e40e64b9380)
-![image](https://github.com/user-attachments/assets/1cbdd8de-73b9-4b8c-9529-714b82207c4e)
-
-
 ## Introduction Of Website
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9449f7c5-8024-4060-8291-6a8c9712485e" width=1000 ><br/>

@@ -1,4 +1,8 @@
+# [PHP] AUCTION SHOP
 This project is an online auction platform that enables users to list, bid, and win products in a competitive and user-friendly environment. Built with Laravel and modern web technologies, it supports real-time bidding, secure user authentication. The platform aims to provide a transparent and dynamic marketplace for buyers and sellers. Ideal for showcasing products of all kinds, from collectibles to high-value items.
+
+## Introduction
+![image](https://github.com/user-attachments/assets/04c50c7a-8f30-4648-9a3f-04ca18021972)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 

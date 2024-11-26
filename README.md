@@ -2,15 +2,13 @@
 This project is an online auction platform that enables users to list, bid, and win products in a competitive and user-friendly environment. Built with Laravel and modern web technologies, it supports real-time bidding, secure user authentication. The platform aims to provide a transparent and dynamic marketplace for buyers and sellers. Ideal for showcasing products of all kinds, from collectibles to high-value items.
 
 ## Introduction Of Website
-![image](https://github.com/user-attachments/assets/9449f7c5-8024-4060-8291-6a8c9712485e)
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9449f7c5-8024-4060-8291-6a8c9712485e" width=800><br/>
+  <img src="https://github.com/user-attachments/assets/9449f7c5-8024-4060-8291-6a8c9712485e" width=1000 ><br/>
   <i>Home</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a613aa06-3fa7-4d6e-beb7-3ce47ce14ea4" width=800><br/>
+  <img src="https://github.com/user-attachments/assets/a613aa06-3fa7-4d6e-beb7-3ce47ce14ea4" width=1000><br/>
   <i>Home</i>
 </p>
 

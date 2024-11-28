@@ -49,7 +49,7 @@ This project is an online auction platform that enables users to list, bid, and 
   <i>Register</i>
 </p>
 
-## Security Vulnerabilities
+## Contact
 
 If you have any questions or suggestions, feel free to reach out to me via email at [tnbao1009@gmail.com](tnbao1009@gmail.com).  I’d love to hear from you!
 

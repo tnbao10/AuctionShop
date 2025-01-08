@@ -49,10 +49,7 @@ This project is an online auction platform that enables users to list, bid, and 
   <i>Register</i>
 </p>
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me via email at [tnbao1009@gmail.com](tnbao1009@gmail.com).  I’d love to hear from you!
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Contact Me 
+<p align="center">
+  Thanks for visit our project, if you need further information, please contact me via email: <a href="mailto:tnbao1009@gmail.com">tnbao1009@gmail.com</a>
+</p>
